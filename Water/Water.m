@@ -33,7 +33,6 @@
 - (void)waterWare{
     b += 0.3;
     [self setNeedsDisplay];
-
 }
 
 - (void)drawRect:(CGRect)rect{

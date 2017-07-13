@@ -209,7 +209,7 @@
 				TargetAttributes = {
 					DCE1DCFD1BE7342F00D54C70 = {
 						CreatedOnToolsVersion = 7.1;
-						DevelopmentTeam = 48H672NTNL;
+						DevelopmentTeam = 7QT42R489Z;
 					};
 					DCE1DD101BE7342F00D54C70 = {
 						CreatedOnToolsVersion = 7.1;
@@ -410,6 +410,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = 7QT42R489Z;
 				INFOPLIST_FILE = Water/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "-.Water";
@@ -421,6 +423,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = 7QT42R489Z;
 				INFOPLIST_FILE = Water/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "-.Water";
@@ -495,6 +499,7 @@
 				DCE1DD271BE7342F00D54C70 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DCE1DD281BE7342F00D54C70 /* Build configuration list for PBXNativeTarget "WaterTests" */ = {
 			isa = XCConfigurationList;
@@ -503,6 +508,7 @@
 				DCE1DD2A1BE7342F00D54C70 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DCE1DD2B1BE7342F00D54C70 /* Build configuration list for PBXNativeTarget "WaterUITests" */ = {
 			isa = XCConfigurationList;
@@ -511,6 +517,7 @@
 				DCE1DD2D1BE7342F00D54C70 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
